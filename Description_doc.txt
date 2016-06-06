@@ -1,0 +1,19 @@
+
+Description Doc
+	
+	Project Uploaded to GitHub link:
+		https://github.com/emadehsan/Selenium-GitHub-Tester
+		
+
+	Implementation:
+		1. Each file in 'test' package contains separate Test Case
+			except Main.java & Writer.java
+		
+		2. All the filenames are descriptive and comments in the files 
+			explain what and how the test case works.
+			
+		3. Writer.java file contains methods to write to Excel files.
+		
+		4. The website tested in the Project is "GitHub.com"
+		
+		
